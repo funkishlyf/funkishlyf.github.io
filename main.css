@@ -11,3 +11,7 @@
 #waitlist .list .user {
     background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(255, 0, 194, 0.13) 100%) !important;
 }
+
+.social-menu .icon-twitter,.social-menu .icon-facebook {
+    opacity: 1;
+}
