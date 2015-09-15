@@ -1,8 +1,8 @@
-/*.room-background {
-    background: url(https://cdn.radiant.dj/rcs/radiant.music.nov1.jpgg) no-repeat !important;
+.room-background {
+    background: url(https://ulorb.us/background.png) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
-}*/
+}
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
