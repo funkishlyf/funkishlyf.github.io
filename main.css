@@ -5,11 +5,11 @@
 }*/
 
 
-#donate-box {
+donate-box {
     display: none;
 }
 
-chat-messages.show-donate {
-    top: 50px;
-}
+#chat-messages.show-donate {
+#    top: 50px;
+#}
 
