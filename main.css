@@ -1,8 +1,8 @@
-.room-background {
+/*.room-background {
     background: url(https://cloud.githubusercontent.com/assets/5864010/9874931/42c658fc-5b78-11e5-9d28-5ff63632ae30.jpg) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
-}
+}*/
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
