@@ -17,13 +17,13 @@
         "admin": null,
         "ambassador": null,
         "host": null,
-        "cohost": "#719C9C",
+        "cohost": null,
         "manager": null,
         "bouncer": null,
         "rdj": null,
-        "subscriber": null,
+        "subscriber": "#E0E0D1",
         "friend": null,
-        "user": null
+        "user": "#FFCD9B"
     },
     "images": {
         "background": null,
