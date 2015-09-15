@@ -4,6 +4,9 @@
     height: 500% !important;
 }*/
 
+#donate-box {
+display:none;
+}
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
