@@ -1,8 +1,8 @@
 {
     "room": "Red Panda Day",
     "author": "A smart panda",
-    "icon": "https://dazzuh.github.io/images/redpanda.png",
-    "css": "https://funkishlyf.github.io/main.css",
+    "icon": "http://dazzuh.github.io/images/redpanda.png",
+    "css": "http://funkishlyf.github.io/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
