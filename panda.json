@@ -26,7 +26,7 @@
         "user": "#FFCD9B"
     },
     "images": {
-        "background": null,
+        "background": "http://funkishlyf.github.io/images/background.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
