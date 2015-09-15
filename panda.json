@@ -17,7 +17,7 @@
         "admin": null,
         "ambassador": null,
         "host": null,
-        "cohost": null,
+        "cohost": "#000062",
         "manager": null,
         "bouncer": null,
         "rdj": null,
