@@ -3,3 +3,7 @@
     width: 500% !important;
     height: 500% !important;
 }*/
+
+#donate-box {
+    display:none;
+}
