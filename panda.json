@@ -21,9 +21,9 @@
         "manager": null,
         "bouncer": null,
         "rdj": null,
-        "subscriber": "#E0E0D1",
+        "subscriber": null,
         "friend": null,
-        "user": "#FFCD9B"
+        "user": null
     },
     "images": {
         "background": "http://funkishlyf.github.io/images/background.jpg",
