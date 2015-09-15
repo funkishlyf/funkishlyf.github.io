@@ -4,12 +4,12 @@
     height: 500% !important;
 }*/
 
-/*
-donate-box {
+
+#donate-box {
     display: none;
 }
 
-#chat-messages.show-donate {
+chat-messages.show-donate {
     top: 50px;
 }
-*/
+
