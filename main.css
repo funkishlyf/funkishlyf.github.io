@@ -39,6 +39,24 @@ div.message > div.msg > div.from > span.un
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/* Mungeo */
+#user-rollover.id-5257948 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://funkishlyf.github.io/images/rpbadge_01.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.id-5257948  .badge-box > i.bdg
+{
+    background-image:    url("https://funkishlyf.github.io/images/rpbadge_01.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+
 /* UserList and WaitList */
 /* DREKEN */
 #user-lists .list.room .user.id-3632408 .icon-chat-manager
@@ -50,6 +68,18 @@ div.message > div.msg > div.from > span.un
 {
     background: url("https://nightbloo.github.io/images/redpanda2_sm.png") no-repeat !important;
 }
+/* Mungeo */
+#user-lists .list.room .user.id-5257948 .icon-chat-manager
+{
+    background: url("https://nightbloo.github.io/images/redpanda1_sm.png") no-repeat !important;
+}
+
+#waitlist .list .user.id-5257948 .name .icon-chat-manager
+{
+    background: url("https://nightbloo.github.io/images/redpanda1_sm.png") no-repeat !important;
+}
+
+
 
 
 
