@@ -39,3 +39,17 @@ div.message > div.msg > div.from > span.un
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/* UserList and WaitList */
+/* DREKEN */
+#user-lists .list.room .user.id-3632408 .icon-chat-manager
+{
+    background: url("https://nightbloo.github.io/images/redpanda2_sm.png") no-repeat !important;
+}
+
+#waitlist .list .user.id-3632408 .name .icon-chat-manager
+{
+    background: url("https://nightbloo.github.io/images/redpanda2_sm.png") no-repeat !important;
+}
+
+
+
