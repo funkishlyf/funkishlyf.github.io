@@ -11,7 +11,7 @@ div.message > div.msg > div.from > span.un
 }
 
 /* DREKEN */
- .id-3632408 .msg .from i.icon-chat-cohost
+ .id-3632408 > .msg > .from > i.icon-chat-subscriber
 {
     background: url("https://funkishlyf.github.io/images/redpanda2_sm.png") no-repeat !important;
 }
