@@ -9,7 +9,7 @@ div.message > div.msg > div.from > span.un
     vertical-align:   top;
     horizontal-align: left;
 }
-
+/* ICONS */
 /* DREKEN */
  .id-3632408 > .msg > .from > i.icon-chat-subscriber
 {
@@ -21,3 +21,13 @@ div.message > div.msg > div.from > span.un
 {
     background: url("https://funkishlyf.github.io/images/redpanda1_sm.png") no-repeat !important;
 }
+
+/* BADGES */
+/* DREKEN */
+#user-rollover.id-3632408 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://funkishlyf.github.io/images/rpbadge_02.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
