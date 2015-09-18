@@ -4,7 +4,11 @@
     height: 500% !important;
 }*/
 
-
+div.message > div.msg > div.from > span.un
+{
+    vertical-align:   top;
+    horizontal-align: left;
+}
 
 /* DREKEN */
  .id-3632408 .msg .from i.icon-chat-cohost
