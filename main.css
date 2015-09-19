@@ -16,6 +16,14 @@ div.message > div.msg > div.from > span.un
     background: url("https://funkishlyf.github.io/images/littleredpanda2.png") no-repeat !important;
 }
 
+/* Margotron */
+.id-3598931 .msg .from .icon-chat-bouncer {
+    background: url("https://funkishlyf.github.io/images/pinkbouncer.png") !important;
+}
+
+.id-3598931 span.un.clickable{
+    color: #BD51C5 !important;
+}
 
 /* BADGES */
 /* DREKEN */
@@ -158,8 +166,4 @@ to {
 
 .id-4467448 .msg .from .un:before {
     content: '[Bot] ';
-}
-
-#meh {
-    display: none !important;
 }
