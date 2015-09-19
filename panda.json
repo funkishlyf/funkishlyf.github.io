@@ -31,8 +31,13 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
+<<<<<<< HEAD
         "host": "https://funkishlyf.github.io/images/host.png"",
         "cohost": "https://funkishlyf.github.io/images/subsubsub.png",
+=======
+        "host": "https://funkishlyf.github.io/images/host.png",
+        "cohost": "https://funkishlyf.github.io/images/host.png",
+>>>>>>> parent of d1c2f54... Revert "Update panda.json"
         "manager": "https://funkishlyf.github.io/images/manager.png",
         "bouncer": "https://funkishlyf.github.io/images/bouncer.png",
         "rdj": "https://funkishlyf.github.io/images/rdj.png",
