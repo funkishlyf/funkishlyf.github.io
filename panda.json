@@ -15,12 +15,12 @@
     },
     "ccc": {
         "admin": null,
-        "ambassador": null,
+        "ambassador": "#ff55f8",
         "host": "#CC7A29",
         "cohost": "#5A99AB",
         "manager": "#D55050",
         "bouncer": "#D55050",
-        "rdj": "#A2A7B3",
+        "rdj": "#7CD447",
         "subscriber": "#A2A7B3",
         "friend": null,
         "user": null
@@ -29,7 +29,7 @@
         "background": null,
         "playback": null,
         "admin": null,
-        "ambassador": null,
+        "ambassador": "https://funkishlyf.github.io/images/host.png",
         "host": "https://funkishlyf.github.io/images/host.png",
         "cohost": "https://funkishlyf.github.io/images/drekenhost.png",
         "host": "https://funkishlyf.github.io/images/host.png",
