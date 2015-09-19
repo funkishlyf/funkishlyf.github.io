@@ -150,6 +150,10 @@ to {
     color: #D55050;
 }
 
+#meh {
+    display: none !important;
+}
+
 /* Bot */
 
 .id-4467448 .msg .from .un:before {
