@@ -73,3 +73,20 @@ div.message > div.msg > div.from > span.un
 }
 
 
+/* ROOM SETTINGS - NO TOUCHEY */
+
+#chat .emote .from {
+     color: #ac76ff !important;
+}
+#chat .emote {
+    border-left: #D55050 3px solid !important;
+    background-color: rgba(76, 93, 119, 0.22) !important;
+}
+#chat-messages .emote .icon {
+    /*left: 4px;*/
+}
+#chat .emote .text {
+    font-style: normal;
+    font-weight: bold;
+    color: #D55050;
+}
