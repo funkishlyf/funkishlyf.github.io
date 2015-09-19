@@ -90,3 +90,10 @@ div.message > div.msg > div.from > span.un
     font-weight: bold;
     color: #D55050;
 }
+
+/* Bot */
+
+.id-4467448 .msg .from .un:before {
+    content: '[Bot] ';
+}
+
