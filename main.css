@@ -73,6 +73,10 @@ div.message > div.msg > div.from > span.un
 }
 */
 
+	 /* DREKEN personal color */
+	.id-3632408 span.un.clickable { 
+    color: #5797A9 !important;
+
 /* ROOM SETTINGS - NO TOUCHEY */
 
 #chat .emote .from {
