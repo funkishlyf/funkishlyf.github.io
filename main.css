@@ -73,10 +73,23 @@ div.message > div.msg > div.from > span.un
 }
 */
 
-	 /* DREKEN personal color */
+	 /* DREKEN personal color 
 	.id-3632408 span.un.clickable { 
-    color: #5797A9 !important;
+    color: #5797A9 !important; */
 
+.id-3632408 i.bdg:hover, .id-3632408 i.icon:hover {
+-webkit-animation: rotate 1s infinite alternate;
+}
+
+@-webkit-keyframes rotate {
+from { -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    }
+}		
+	
 /* ROOM SETTINGS - NO TOUCHEY */
 
 #chat .emote .from {
