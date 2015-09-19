@@ -30,7 +30,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "https://funkishlyf.github.io/images/redpanda1_sm.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
