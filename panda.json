@@ -25,7 +25,9 @@
         "friend": null,
         "user": null
     },
-
+	
+	.id-3632408 span.un.clickable { 
+    color: #FF007F !important;
 }	
     "images": {
         "background": null,
@@ -33,11 +35,11 @@
         "admin": null,
         "ambassador": null,
         "host": "https://funkishlyf.github.io/images/host.png",
-        "cohost": "https://funkishlyf.github.io/images/host_blue.png",
+        "cohost": "https://funkishlyf.github.io/images/host.png",
         "manager": "https://funkishlyf.github.io/images/manager.png",
         "bouncer": "https://funkishlyf.github.io/images/bouncer.png",
         "rdj": "https://funkishlyf.github.io/images/rdj.png",
-        "subscriber": "https://funkishlyf.github.io/images/subscriber.png"
+        "subscriber": null
     },
     "emotes": {
     	"emote_name": null
