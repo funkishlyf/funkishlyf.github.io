@@ -1,8 +1,8 @@
-/*.room-background {
-    background: url(https://cloud.githubusercontent.com/assets/5864010/9875353/4fa32462-5b7b-11e5-83d7-cd63e5a9a2ab.jpg) no-repeat !important;
+.room-background {
+    background: url(https://funkishlyf.github.io/images/13.png) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
-}*/
+}
 
 div.message > div.msg > div.from > span.un
 {
@@ -78,22 +78,3 @@ div.message > div.msg > div.from > span.un
 }
 
 
-
-
-/* Some room settings */
-
-#chat .emote .from {
-     color: #ac76ff !important;
-}
-#chat .emote {
-    border-left: rgba(174, 69, 189, 1) 3px solid !important;
-    background-color: rgba(76, 93, 119, 0.22) !important;
-}
-#chat-messages .emote .icon {
-    /*left: 4px;*/
-}
-#chat .emote .text {
-    font-style: normal;
-    font-weight: bold;
-    color: #ac76ff;
-}
