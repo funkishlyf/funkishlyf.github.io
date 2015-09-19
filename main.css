@@ -66,6 +66,22 @@ div.message > div.msg > div.from > span.un
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/* Kris */
+#user-rollover.id-4538423 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://funkishlyf.github.io/images/redpanda_kris.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.id-4538423  .badge-box > i.bdg
+{
+    background-image:    url("https://funkishlyf.github.io/images/redpanda_kris.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
 
 
 /* UserList and WaitList */
