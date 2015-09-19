@@ -156,3 +156,6 @@ to {
     content: '[Bot] ';
 }
 
+#meh {
+    display: none !important;
+}
