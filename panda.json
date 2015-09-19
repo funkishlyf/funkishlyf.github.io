@@ -25,6 +25,10 @@
         "friend": null,
         "user": null
     },
+	
+	.id-USERID span.un.clickable { 
+    color: #FF007F !important;
+}	
     "images": {
         "background": null,
         "playback": null,
