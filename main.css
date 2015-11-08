@@ -91,6 +91,8 @@ div.message > div.msg > div.from > span.un
     background-position: center center;
 }
 
+<input id="chat-txt-message" name="message" type="text" placeholder="bla bla bla" autocomplete="off" maxlength="140">
+
 
 /* UserList and WaitList */
 /* DREKEN 
