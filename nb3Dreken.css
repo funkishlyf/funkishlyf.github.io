@@ -15,9 +15,8 @@
 
 
 /* Fonts */
-#@font-face {
+p {
     font-family: "Verdana";
-#    src: url("URL to font here");
 }
 
 
