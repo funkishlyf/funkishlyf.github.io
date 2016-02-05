@@ -16,7 +16,7 @@
 
 /* Fonts */
 #chat .chat-container .chat-messages .chat-main p, #chat-txt-message {
-    font-family: "Verdana", sans-serif;
+    font-family: "Consolas", sans-serif;
     font-size: .85rem;
 }
 
