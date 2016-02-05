@@ -89,7 +89,7 @@ span.close-browser:before { content: "\e903"; }
 #browser .browser-content .browser-content-header .form .music-type-select .icon-soundcloud { color: orange; }
 
 /* Chat avatars fix */
-#chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row { border-radius: 50px; }
+#chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row { border-radius: 10px; }
 /*#chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row > img {/*
     max-width: none;
     height: 100%;
