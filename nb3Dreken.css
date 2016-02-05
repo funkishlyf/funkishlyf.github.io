@@ -13,6 +13,14 @@
 @import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* Animations */
 @import url("https://krdemoz.github.io/Dubtrack/css/BG-Free/Themes/theme_blue.css"); /* Replacement PlugDJ theme */
 
+
+/* Fonts */
+#@font-face {
+    font-family: "Verdana";
+#    src: url("URL to font here");
+}
+
+
 /* Hide Skip button */
 #main_player .player_header span.skip-el { display: none !important; }
 
