@@ -1,6 +1,8 @@
 /* main css for NB3 Dubtrack Room */
 /* reliant on netux css */
 
+
+
 /* Imports */
 @import url("https://netox005.github.io/Dubtrack/css/voteicons.css"); /* NB3 Vote Icons */
 @import url("https://netox005.github.io/Dubtrack/css/chatright.css"); /* Chat completely to the right */
@@ -10,6 +12,11 @@
 @import url("https://netox005.github.io/Dubtrack/css/phonefix.css"); /* Phone Fixes */
 @import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* Animations */
 @import url("https://krdemoz.github.io/Dubtrack/css/BG-Free/Themes/theme_blue.css"); /* Replacement PlugDJ theme */
+
+/* Hide Skip button */
+#main_player .player_header span.skip-el { display: none !important; }
+
+/* Requested by @dreken */
 
 /* Video next to chat */
 @media screen and (min-width: 72em) {
