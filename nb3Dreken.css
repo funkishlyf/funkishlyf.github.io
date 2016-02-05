@@ -17,8 +17,8 @@
 /* Fonts */
 p {
     font-family: "Verdana";
+	font-size: 10px;
 }
-
 
 /* Hide Skip button */
 #main_player .player_header span.skip-el { display: none !important; }
