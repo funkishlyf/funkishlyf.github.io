@@ -93,7 +93,7 @@ span.close-browser:before { content: "\e903"; }
 #chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row > img {
     max-width: none;
     height: 100%;
-    display: block;
+    display: inline-block;
     margin: auto;
 }
 
