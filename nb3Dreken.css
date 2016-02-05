@@ -140,7 +140,7 @@ time.timeago { /* Time ago on messages not selectable */
     -webkit-user-select: none;
     user-select: none;
 }
-#avatar-list p.dubs span { font-family: courier; font-size: 1.2rem } /* User list dubs num position fix */
+#avatar-list p.dubs span { font-family: monospace; font-size: 1.2rem } /* User list dubs num position fix */
 #chat .chat-main .system, #chat .chat-main .chat-system-loading { color: #0090CC !important; } /* Chat system message color fix */
 img.emoji.twitch-emoji[alt="facepalm"] { background-color: white; } /* Facepalm coloring fix */
 #chat .chat-container li.isDefault.current-chat-user a.username { color: gold !important; } /* Gold color on user if it's pleb */
