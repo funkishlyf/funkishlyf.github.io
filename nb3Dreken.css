@@ -14,9 +14,8 @@
 @import url("https://krdemoz.github.io/Dubtrack/css/BG-Free/Themes/theme_blue.css"); /* Replacement PlugDJ theme */
 
 
-body {
-    background-image: url("http://i.imgur.com/X6dSxBU.jpg");
-}
+background-image: url("http://i.imgur.com/X6dSxBU.jpg");
+
 
 /* Fonts */
 #chat .chat-container .chat-messages .chat-main p, #chat-txt-message {
