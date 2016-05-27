@@ -25,6 +25,9 @@
 /* Hide Skip button */
 #main_player .player_header span.skip-el { display: none !important; }
 
+/* Hide Donate button */
+#header-global .header-donate { display: none !important; }
+
 /*
 Position of song on playlist/queue/history
 Thanks to @Larry1123 for showing me the counter function, counter-reset and counter-increment CSS rules.
