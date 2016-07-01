@@ -11,6 +11,12 @@
 @import url("https://netox005.github.io/Dubtrack/css/animations.css"); /* Animations */
 @import url("https://krdemoz.github.io/Dubtrack/css/BG-Free/Themes/theme_blue.css"); /* Replacement PlugDJ theme */
 
+/* Fonts */
+#chat .chat-container .chat-messages .chat-main p, #chat-txt-message {
+    font-family: "consolas", sans-serif;
+    font-size: .85rem;
+}
+
 /* Video next to chat */
 @media screen and (min-width: 72em) {
     #main-room .left_section { left: initial; right: 449px; }
