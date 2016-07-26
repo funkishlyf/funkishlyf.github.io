@@ -47,6 +47,9 @@ Imports:
 /* Room size fix */
 @media screen and (min-width: 72em) { #main-room .main-room-wrapper { min-height: 0; margin-bottom: 0; } }
 
+/* Hide Donate button */
+#header-global .header-donate { display: none !important; }
+
 /* Skip animation */
 @keyframes hidding-skip {
     0% { right: 0; }
