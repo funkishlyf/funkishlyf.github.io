@@ -27,6 +27,12 @@ Imports:
 @import url("https://netox005.github.io/Dubtrack/css/roomformbetter.css"); /* Modified Room Form */
 @import url("https://netox005.github.io/Dubtrack/css/fixesnetux.css"); /* Netux Fixes */
 
+/* Fonts */
+#chat .chat-container .chat-messages .chat-main p, #chat-txt-message {
+    font-family: "consolas", sans-serif;
+    font-size: .85rem;
+}
+
 /* Video next to chat */
 @media screen and (min-width: 72em) {
     #main-room .left_section {
