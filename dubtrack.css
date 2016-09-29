@@ -1,0 +1,320 @@
+/* Imports */
+@import url("https://nightbloo.github.io/dubtrack/dubtrack.css");
+@import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders */
+@import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
+@import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
+ 
+#main_player .player_header #topbanner {
+    height: 0px !important;
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .history-item {
+    background: rgba(0,0,0,0.5);
+}
+ 
+#player-controller .right ul li .add-to-playlist-button.grabbed .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.grabbed span, #player-controller .right ul li .add-to-playlist-button.voted .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.voted span, #player-controller .right ul li .dubdown.grabbed .icon-heart:before, #player-controller .right ul li .dubdown.grabbed span, #player-controller .right ul li .dubdown.voted .icon-heart:before, #player-controller .right ul li .dubdown.voted span {
+    color: #1a1a1a !important;
+}
+ 
+#user_popover .usercontent header h3 {
+    color: #1a1a1a;
+}
+ 
+#user_popover .usercontent header .dubs {
+    color: #1a1a1a;
+}
+ 
+#user_popover .actions a {
+    color: #1a1a1a;
+    outline: 1px solid #1a1a1a !important;
+}
+ 
+#user_popover .global-actions a {
+    color: #1A1A1A !important;
+}
+ 
+#player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
+    height: 7px !important;
+}
+ 
+#chat .chat_tools {
+border-bottom: none !important;
+}
+ 
+/** Upvote/Downvote **/
+ul.avatar-list li.updub {
+    background: transparent;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ul.avatar-list li.downdub {
+    background: #AB0000;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ 
+#player-controller .right ul li .add-to-playlist-button.grabbed span {
+    color: #1a1a1a !important;
+}
+ 
+#header-global .header-right-navigation .user-info .user-image {
+    border-radius: 5px !important;
+}
+ 
+/* sys message color change */
+#chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
+#chat .chat-main li[class*='system']{
+    text-align: center;
+}
+ 
+#main-room .left_section #main_player .play-song-link {
+    color: white;
+}
+ 
+#player-controller .right ul li .dubup.voted span {
+    color: #1a1a1a;
+}
+#player-controller .right ul li .dubdown.voted span {
+    color: #1a1a1a;
+}
+ 
+/* Queue redesign */
+ 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item {
+    background: transparent;
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right a {
+    background: transparent;
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .playlist-item {
+    background: transparent;
+}
+ 
+#browser .browser-content .browser-content-main .sidebar .import-playlist, #browser .browser-content .browser-content-main .sidebar .create-playlist {
+    background: transparent;
+}
+ 
+#browser .browser-content .browser-content-main .sidebar {
+    background: none;
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos {
+    background: rgba(0,0,0,0.7);
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a {
+    background: transparent;
+}
+ 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item {
+    background: rgba(0,0,0,0.5);
+}
+ 
+#browser .browser-content .browser-content-header {
+    background: transparent !important;
+}
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll {
+    background: rgba(0,0,0,0.3) !important;
+}
+#browser .browser-content .browser-content-header .form input {
+    background: rgba(0,0,0,0.5)!important;
+}
+#browser .browser-content .browser-content-header {
+    background: transparent;
+}
+ 
+.main-page-container #main-section #player-controller {
+  border-radius: 0px !important;
+  background: rgba(0,0,0,0.8) !important;
+}
+#header-global .header-right-navigation .user-messages .message-counter {
+    background: #1a1a1a;
+}
+/* Fix ban font color */
+#user_popover .actions a input {
+    background: #1a1a1a !important;
+}
+ 
+/* Fix footer bar gradient background */
+#player-controller .left:after {
+ background-image: linear-gradient(to top,
+transparent 5px,
+transparent 5px,
+transparent 100%) !important;
+}
+ 
+/* Bottom bar transparency and fix */
+.main-page-container #main-section #player-controller .left {
+  background-color: transparent !important;
+  border-radius: 0px !important;
+  background-image: none !important;
+}
+ 
+.main-page-container #main-section #player-controller .right {
+  background: transparent !important;
+  border-radius: 0px !important;
+}
+ 
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong {
+    color: white;
+}
+ 
+/* Remove rounded edges on headerbar */
+#header-global {
+  border-radius: 0px !important;
+  background-color: rgba(0,0,0,0.8);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+ 
+/* Player fixes */
+#main_player {
+  background-color: rgba(0,0,0,0.8);
+  margin-top:2px;
+  border-right: none !important;
+  width:20% !important;
+}
+ 
+/* Player buttons fixes */
+#main_player .player_header span {
+  background: black!important;
+  opacity: 1;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  width: 65px;
+  margin-top: 3px;
+}
+ 
+#main_player .player_header {
+ left: -65px !important;
+ height: 81.25% !important;
+}
+ 
+#main_player .player_header span.active {
+  background: black !important;
+  opacity: 1;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 65px;
+  margin-top: 3px;
+}
+ 
+#main_player .play-song-link .queue-info {
+  background: #FFFFFF;
+}
+ 
+#main_player .play-song-link {
+  background: rgba(0,0,0,0.8) !important;
+  border-radius:0px;
+}
+ 
+#main-room .left_section #main_player .play-song-link {
+  padding: 11px 1.5rem;
+}
+#main-room .left_section {
+  border-bottom-left-radius: 0;
+}
+ 
+/* Chat fixes */
+#main-room .right_section {
+  background-color: rgba(0,0,0,0.8);
+  margin-top: 2px !important;
+}
+ 
+/* Fix popover */
+.backstretch #user_popover {
+  left:1167px !important;
+}
+ 
+#chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
+  border-radius: 5px !important;
+}
+/* Fix chat position */
+.right_section {
+  height: calc(100vh - 114px)!important;
+}
+/*
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p {
+  width: 240px;
+}
+ 
+/* Video next to chat */
+#main-room .left_section {
+  left: initial; right: 450px;
+}
+ 
+#main-room .left_section #main_player {
+  border-radius: 0; border-bottom-left-radius: 1rem;
+}
+ 
+/* Miscellaneous */
+ 
+/* Fix add to playlist background */
+#addToPlaylistFloatContainer {
+  background: #1A1A1A !important;
+}
+ 
+/* Fix mod controller active color */
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active {
+ color: white !important;
+}
+ 
+/* Fix playlist selector color */
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
+ color: white !important;
+}
+ 
+/* Fix playlist number color */
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li span {
+ color: white !important;
+}
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
+ color: #1a1a1a !important;
+}
+ 
+/* System message recolor */
+.right_section #chat .chat-main li[class*='system'] {
+  text-align: center;
+}
+ 
+/* Loading, promote/demote and song skips in chat not so similar to user /me's */
+#chat .chat-main .system, #chat .chat-main .chat-system-loading {
+  text-align: center; color: #0090CC !important;
+}
+ 
+/* Welcome message in white */
+#chat .chat-container .chat-messages .chat-main li.chat-welcome-message {
+  color: white !important;
+}
+ 
+/* Agressive errors in chat */
+#chat .chat-container .chat-messages .chat-main li.system-error {
+  text-transform: uppercase;
+}
+ 
+/* Scrollbars more visible */
+.ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y {
+  background-color: #B1B1B1
+}
+ 
+/* Time until booth Fix */
+.durationRemaining { margin: 6px 4px 4px 4px !important;
+}
+ 
+/* Hide Youtube Watermark */
+.ytp-watermark { display: none !important;
+}
+ 
+/* Hide annotations */
+.html5-video-content .video-annotations { display: none !important;
+}
+/* Fix emote size */
+.right_section #chat .activity-row .text .bttv-emote.emoji,  .right_section #chat .activity-row .text .twitch-emote.emoji{
+  max-width: 100px !important;
+  max-height: 30px !important;
+  width: auto !important;
+  height: auto !important;
+}
