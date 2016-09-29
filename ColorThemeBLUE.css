@@ -14,15 +14,15 @@ padding-right: 16px !important;
 }
 
 #main_player .play-song-link-container .play-song-link-browser i {
-color: #00ACE6;
+color: #005580;
 }
 
 #chat .pusher-chat-widget-input {
-border-top: 1px solid #00ACE6 !important;
+border-top: 1px solid #005580 !important;
 }
 
 #main-room .left_section #main_player .play-song-link {
- border: 2px solid #00ACE6;
+ border: 2px solid #005580;
 }
 
 #header-global {
